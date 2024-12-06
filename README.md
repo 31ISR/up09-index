@@ -22,11 +22,18 @@
 
 [Интерактивный тренажер по Unix терминалу](https://www.terminaltutor.com/) [en]
 или
-[Бесплатный курс по терминалу](https://ru.hexlet.io/courses/cli-basics) [ru]
+
+> [!CAUTION]
+> **ОБЯЗАТЕЛЬНО ПРОЙТИ**
+> [Бесплатный курс по терминалу](https://ru.hexlet.io/courses/cli-basics) [ru]
 
 ### 3. Django Lab 1
 
 [Лабораторная работа №1](https://github.com/31ISR/up09-lab1)
+
+### 4. Django Lab 2
+
+[Лабораторная работа №1](https://github.com/31ISR/up09-lab2)
 
 ⬆️ Мы здесь
 
@@ -46,6 +53,8 @@
     - `git clone {SSH_ПУТЬ_ДО_ВАШЕЙ_РЕПЫ}`
 3. Переключитель на ветку `dev`
     - `git branch dev` и `git checkout dev`
+
+    *не забудьте перейти в папку с репозиторием*
 4. Выполняйте задания в ветке `dev`
 
 ### Как работать
