@@ -17,6 +17,27 @@
 | HTTP_PROXY  | http://10.0.55.52:3128 |
 | HTTPS_PROXY | http://10.0.55.52:3128 |
 
+_Это работает для PHP, Composer и некоторых других терминальный программы_
+
+## Добавление Proxy для Pip
+
+1. Создайте папку `pip` в `%APPDATA%`
+
+2. Создайте в папке файл `pip.ini` с содержанием
+
+```ini
+[global]
+proxy = http://10.0.55.52:3128
+```
+
+## Добавление Proxy для NPM
+
+1. Запустите команду
+
+```powershell
+npm config set proxy "http://10.0.55.52:3128"
+```
+
 ## Добавление PHP зависимостей
 
 Раскомментируйте расширения внутри `C:\php\php.ini`
@@ -26,6 +47,7 @@
 - `zip`
 - `fileinfo`
 - `openssl`
+- `mbstring`
 
 ## Roadmap
 
