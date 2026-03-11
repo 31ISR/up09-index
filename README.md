@@ -20,7 +20,7 @@
 #### Bruno
 
 - [Общая](https://github.com/31isr/up09-bruno)
-- [Лабораторная работа](https://github.com/31isr/up09-bruno)
+- [Лабораторная работа](https://github.com/31isr/up09-bruno-lab)
 
 #### Рендер данных с сервера
 
