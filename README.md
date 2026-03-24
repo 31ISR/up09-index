@@ -26,7 +26,7 @@
 
 - [Лабораторная работа](https://github.com/31isr/up09-render-lab)
 
-#### Рендер данных с сервера
+#### Express
 
 - [Общая](https://github.com/31isr/up09-express)
 - [Лабораторная работа](https://github.com/31isr/up09-express-lab)
