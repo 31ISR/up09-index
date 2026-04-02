@@ -20,19 +20,22 @@
 #### Bruno
 
 - [Общая](https://github.com/31isr/up09-bruno)
-- [Лабораторная работа](https://github.com/31isr/up09-bruno-lab)
+- [Лабораторная работа Bruno](https://github.com/31isr/up09-bruno)
 
-#### Рендер данных с сервера
+#### Render
 
-- [Лабораторная работа](https://github.com/31isr/up09-render-lab)
+- [Общая](https://github.com/32isr/up09-render)
+- [Лабораторная Render](https://github.com/32isr/up09-render-lab)
 
 #### Express
 
-- [Общая](https://github.com/31isr/up09-express)
-- [Лабораторная работа](https://github.com/31isr/up09-express-lab)
+- [Общая](https://github.com/32isr/up09-express)
+- [Лабораторная работа Express](https://github.com/32isr/up09-express-lab)
 
 > [!WARNING]  
 > Работы выше должны быть сданы до 05.04.2026
+
+- [Лабораторная работа Own-Express](https://github.com/32isr/up09-own-express-lab)
 
 ## Как выполнять задания
 
