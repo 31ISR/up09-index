@@ -33,7 +33,7 @@
 - [Лабораторная работа Express](https://github.com/32isr/up09-express-lab)
 
 > [!WARNING]  
-> Работы выше должны быть сданы до 05.04.2026
+> Работы выше должны быть сданы до 06.04.2026
 
 - [Лабораторная работа Own-Express](https://github.com/32isr/up09-own-express-lab)
 
