@@ -41,6 +41,15 @@ _Отработка выдается согласно посещаемости. 
 
 - [Отработка-работа Express-makeup](https://github.com/31isr/up09-express-makeup)
 
+#### Misc
+
+- [Общая Deploy](https://github.com/31isr/up09-deploy)
+
+#### Strapi
+
+- [Общая Strapi](https://github.com/31isr/up09-strapi)
+- [Лабораторная Strapi](https://github.com/31isr/up09-strapi-lab)
+
 ## Как выполнять задания
 
 В каждом репозитории описано как выполнять задание. В случае, если не указано, то работать по следующему принципу:
