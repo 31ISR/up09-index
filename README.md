@@ -50,6 +50,18 @@ _Отработка выдается согласно посещаемости. 
 - [Общая Strapi](https://github.com/31isr/up09-strapi)
 - [Лабораторная Strapi](https://github.com/31isr/up09-strapi-lab)
 
+#### Laravel
+
+##### REST API
+
+- [Общая Laravel](https://github.com/31isr/up09-laravel)
+
+- [Лабораторная Laravel](https://github.com/31isr/up09-laravel-lab)
+
+##### Blade
+
+...
+
 ## Как выполнять задания
 
 В каждом репозитории описано как выполнять задание. В случае, если не указано, то работать по следующему принципу:
