@@ -56,7 +56,7 @@ _Отработка выдается согласно посещаемости. 
 
 - [Общая Laravel](https://github.com/31isr/up09-laravel)
 
-- [Лабораторная Laravel](https://github.com/31isr/up09-laravel-lab)
+- [Лабораторная Laravel](https://github.com/31isr/up09-laravel-api-lab)
 
 ##### Blade
 
