@@ -1,6 +1,7 @@
 # Разработка пользовательских интерфейсов
 
 https://telemost.yandex.ru/j/53207377312834
+https://salutejazz.ru/calls/mij84b?psw=OEIbDwRSCB8eUhwZW0YfDBFYAQ
 
 ## Содержание
 
