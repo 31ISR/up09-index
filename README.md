@@ -1,8 +1,5 @@
 # Разработка пользовательских интерфейсов
 
-https://telemost.yandex.ru/j/53207377312834
-https://salutejazz.ru/calls/mij84b?psw=OEIbDwRSCB8eUhwZW0YfDBFYAQ
-
 ## Содержание
 
 1. [Лидерборд](https://docs.google.com/spreadsheets/d/1M-I0suwDAB-sjGJGteHfa0wlMtnl1hFJ/edit?usp=sharing&ouid=114980174016056670914&rtpof=true&sd=true)
@@ -63,7 +60,9 @@ _Отработка выдается согласно посещаемости. 
 
 ##### Blade
 
-...
+- [Шаблон Laravel](https://github.com/31isr/laravel-template)
+
+- [Лабораторная Laravel](https://github.com/31isr/up09-laravel-lab)
 
 ## Как выполнять задания
 
