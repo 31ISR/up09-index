@@ -1,5 +1,5 @@
 # Разработка пользовательских интерфейсов
-
+https://sigame.vladimirkhil.com/?_d47135
 ## Содержание
 
 1. [Лидерборд](https://docs.google.com/spreadsheets/d/1M-I0suwDAB-sjGJGteHfa0wlMtnl1hFJ/edit?usp=sharing&ouid=114980174016056670914&rtpof=true&sd=true)
